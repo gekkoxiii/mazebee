@@ -1,5 +1,4 @@
 class salle {
-
   boolean visited=false;
   boolean occuped=false;
   boolean depart=false;
